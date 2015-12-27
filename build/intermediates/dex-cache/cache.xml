@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/pre-dexed/debug/classes-2ffd2b189c8794af6345e2c1741014b57d7789dd.jar" />
-    </item>
-    <item
-        jar="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/pre-dexed/debug/classes-95ca9c09c97866e0e5f090b28f300dfe7a3bd854.jar" />
-    </item>
-    <item
         jar="/home/kerami/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-6d9593c7e4db7e0d7dbedbf0df39693adb9bc965.jar" />
+        <dex dex="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/pre-dexed/release/support-annotations-22.1.1-6d9593c7e4db7e0d7dbedbf0df39693adb9bc965.jar" />
     </item>
     <item
-        jar="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jar="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/pre-dexed/release/classes-f7bb43edd36017dfeca0477d3c3b53813d515cb0.jar" />
+    </item>
+    <item
+        jar="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/home/kerami/AndroidStudioProjects/TheHornSounds/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-919083b38db3d641eeabbb937325a626333067f7.jar" />
+        <dex dex="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/pre-dexed/release/internal_impl-22.1.1-fcb7c09e95f8a77d21c58af0243e3e15ed958f99.jar" />
+    </item>
+    <item
+        jar="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/kerami/AndroidStudioProjects/thehornsounds/app/build/intermediates/pre-dexed/release/classes-79d688f46f221535254d80cfa74f98e4be691fde.jar" />
     </item>
 
 </items>
